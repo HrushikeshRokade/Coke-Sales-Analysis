@@ -1,4 +1,4 @@
-# Coke-Sales-Analysis
+# Coke-Sales-Analysis (Dashboard creation using MS Excel)
 ## Project Objective
 Problem here is that client wants to know what are the things wich are impacting sales and how they can be improved.
 
